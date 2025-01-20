@@ -22,6 +22,4 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **suyogp123456789@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1i5NDaKR9RAhAPbkwO_Zs-xxVKqfW-wi9/view?usp=sharing](https://drive.google.com/file/d/1i5NDaKR9RAhAPbkwO_Zs-xxVKqfW-wi9/view?usp=sharing)
+- 📫 How to reach me **suyogp0607@gmail.com**
