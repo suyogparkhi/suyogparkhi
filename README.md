@@ -48,25 +48,17 @@ class Suyog:
 
 </div>
 
-## 🚀 Featured Builds
+## 📊 The Numbers (private + org repos included)
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🎯 [bound-market-core](https://github.com/suyogparkhi/bound-market-core) | Decentralized binary markets for volatility prediction — built for **Colosseum Breakout** | Solana, TypeScript |
-| ♾️ [perennia-local](https://github.com/suyogparkhi/perennia-local) | 🏆 Everlasting options protocol on Solana powered by Pacifica | Python, Solana |
-| ⛽ [GasGuru](https://github.com/suyogparkhi/GasGuru) | Gas abstraction project from **PayFi Mini Hack** | TypeScript |
-| 🔄 [Dex](https://github.com/suyogparkhi/Dex) | Multiswap DApp on Solana | JavaScript, Web3 |
-| 🗣️ [SIH_2024](https://github.com/suyogparkhi/SIH_2024) | Few-shot language-agnostic keyword spotting system — **Smart India Hackathon** | Python, ML |
-| 🎪 [tcb-carnival-carousel-ctf](https://github.com/suyogparkhi/tcb-carnival-carousel-ctf) | CTF platform for TCB Carnival Carousel | Next.js, MongoDB |
-
-> 🕶️ *The real flagship work — AI companions, astrology agents, voice platforms, payment rails — ships from private repos. The graphs below tell that story.*
-
-## 📊 The Numbers (private commits included)
+> 🕶️ *The real flagship work — AI companions, voice platforms, payment rails — ships from private and org repos. These charts are generated with my own token, so they count **all of it**.*
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/suyogparkhi/suyogparkhi/metrics/metrics-languages.svg" alt="most used languages (incl. private & org repos)"/>
+
+<img src="https://raw.githubusercontent.com/suyogparkhi/suyogparkhi/metrics/metrics-isocalendar.svg" alt="contribution calendar (incl. private)"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=suyogparkhi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyogparkhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&hide=html,css,jupyter%20notebook" alt="languages"/>
 
 <img src="https://streak-stats.demolab.com?user=suyogparkhi&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
 
