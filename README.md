@@ -26,7 +26,7 @@ class Suyog:
 - ⚙️ Backend muscle: **FastAPI microservices**, event-driven architectures, payment integrations, scrapers, schedulers
 - 🌐 Web3 side-quests: prediction markets, everlasting options, multiswap DEX aggregation on **Solana**
 
-## 🛠️ Arsenal
+## Arsenal
 
 <div align="center">
 
@@ -48,8 +48,6 @@ class Suyog:
 
 </div>
 
-## 📊 The Numbers (private + org repos included)
-
 > 🕶️ *The real flagship work — AI companions, voice platforms, payment rails — ships from private and org repos. These charts are generated with my own token, so they count **all of it**.*
 
 <div align="center">
@@ -68,8 +66,6 @@ class Suyog:
 
 </div>
 
-## 🐍 Watching my contributions get devoured
-
 <div align="center">
 
 <picture>
@@ -80,7 +76,7 @@ class Suyog:
 
 </div>
 
-## 🔗 Find me
+## Find me
 
 <div align="center">
 
