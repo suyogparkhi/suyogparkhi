@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="206" viewBox="0 0 480 206" fill="none" role="img">
 <rect width="480" height="206" rx="6" fill="#0d1117"/>
 <text x="25" y="32" font-family="Segoe UI, Ubuntu, sans-serif" font-weight="600" font-size="17" fill="#70a5fd">Most Used Languages</text>
-<text x="25" y="52" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11.5" fill="#8b949e">187 repos · private &amp; org included · each repo weighted equally · 2026-06-11</text>
+<text x="25" y="52" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11.5" fill="#8b949e">187 repos · private &amp; org included · each repo weighted equally · 2026-06-12</text>
 <defs><clipPath id="bar"><rect x="25" y="66" width="430" height="10" rx="5"/></clipPath></defs><g clip-path="url(#bar)">
 <rect x="25.0" y="66" width="145.7" height="10" fill="#3572A5"/>
 <rect x="169.2" y="66" width="129.4" height="10" fill="#3178c6"/>
